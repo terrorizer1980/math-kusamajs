@@ -12,7 +12,7 @@ https://polkadot.js.org/api/METHODS_EXTRINSICS.html#extrinsics
 https://chrome.google.com/webstore/detail/math-wallet/afbcbjpbpfadlkmhmclhkeeodmamcflc
 
 2 Open
-http://developer.mathwallet.org/dot01/
+http://developer.mathwallet.org/dot02/
 
 ## Upgrade dependencies
 update dependencies of polkadot/api & polkadot/extension-dapp in package.json
